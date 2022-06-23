@@ -1,0 +1,1 @@
+{"name":"Local: football_cup","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\football_cup.cpp","tests":[{"id":1651834710673,"input":"4\n1 1\n0 1\n0 0\n2 2","output":"YES\nNO\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\football_cup.cpp","group":"local","local":true}

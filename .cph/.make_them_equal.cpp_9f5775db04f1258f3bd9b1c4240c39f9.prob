@@ -1,0 +1,1 @@
+{"name":"Local: make_them_equal","url":"d:\\Coding\\c++\\100DaysOfCode\\make_them_equal.cpp","tests":[{"id":1649261543084,"input":"2\n4\n1 2 3 4\n5\n1 1 1 1 1","output":"1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\make_them_equal.cpp","group":"local","local":true}

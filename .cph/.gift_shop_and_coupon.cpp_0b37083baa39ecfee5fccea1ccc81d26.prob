@@ -1,0 +1,1 @@
+{"name":"Local: gift_shop_and_coupon","url":"d:\\Coding\\c++\\100DaysOfCode\\gift_shop_and_coupon.cpp","tests":[{"id":1647446000059,"input":"3\n1 4\n5\n3 15\n4 4 5\n3 10\n6 7 4\n","output":"1\n3\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\gift_shop_and_coupon.cpp","group":"local","local":true}

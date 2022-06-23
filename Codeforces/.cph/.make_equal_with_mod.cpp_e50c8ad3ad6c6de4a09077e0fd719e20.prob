@@ -1,0 +1,1 @@
+{"name":"Local: make_equal_with_mod","url":"d:\\Coding\\c++\\100DaysOfCode\\Codeforces\\make_equal_with_mod.cpp","tests":[{"id":1655615799909,"input":"4\n4\n2 5 6 8\n3\n1 1 1\n5\n4 1 7 0 8\n4\n5 9 17 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\Codeforces\\make_equal_with_mod.cpp","group":"local","local":true}

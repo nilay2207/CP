@@ -1,0 +1,1 @@
+{"name":"Local: the_cooler_dilema1","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\the_cooler_dilema1.cpp","tests":[{"id":1650096607549,"input":"3\n5 10 1\n5 10 2\n5 10 3\n","output":"YES\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\the_cooler_dilema1.cpp","group":"local","local":true}

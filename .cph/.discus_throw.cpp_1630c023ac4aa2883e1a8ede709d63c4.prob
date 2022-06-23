@@ -1,0 +1,1 @@
+{"name":"Local: discus_throw","url":"d:\\Coding\\c++\\100DaysOfCode\\discus_throw.cpp","tests":[{"id":1647161278319,"input":"3\n10 15 8\n32 32 32\n82 45 54\n","output":"15\n32\n82\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\discus_throw.cpp","group":"local","local":true}

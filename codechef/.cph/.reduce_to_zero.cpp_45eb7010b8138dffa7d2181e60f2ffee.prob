@@ -1,0 +1,1 @@
+{"name":"Local: reduce_to_zero","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\reduce_to_zero.cpp","tests":[{"id":1654942564144,"input":"3\n1 2\n99999999999999999 99999999999999999\n0 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\reduce_to_zero.cpp","group":"local","local":true}

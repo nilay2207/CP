@@ -1,0 +1,1 @@
+{"name":"Local: six_friends","url":"d:\\Coding\\c++\\100DaysOfCode\\six_friends.cpp","tests":[{"id":1650631918425,"input":"3\n10 15\n6 8\n4 8\n","output":"30\n16\n12\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\six_friends.cpp","group":"local","local":true}

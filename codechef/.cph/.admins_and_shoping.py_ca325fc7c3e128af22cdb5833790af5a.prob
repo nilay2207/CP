@@ -1,0 +1,1 @@
+{"name":"Local: admins_and_shoping","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\admins_and_shoping.py","tests":[{"id":1650473541535,"input":"3\n2 3\n3 3\n4 2\n1 2 3 4\n1 6\n2","output":"2\n4\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\admins_and_shoping.py","group":"local","local":true}

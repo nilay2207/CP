@@ -1,0 +1,1 @@
+{"name":"Local: the_rating_dilema","url":"d:\\Coding\\c++\\100DaysOfCode\\the_rating_dilema.cpp","tests":[{"id":1648818989242,"input":"2\n0\n1\n","output":"-1\n-2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\the_rating_dilema.cpp","group":"local","local":true}

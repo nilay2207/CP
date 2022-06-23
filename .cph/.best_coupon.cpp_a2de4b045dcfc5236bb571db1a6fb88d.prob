@@ -1,0 +1,1 @@
+{"name":"Local: best_coupon","url":"d:\\Coding\\c++\\100DaysOfCode\\best_coupon.cpp","tests":[{"id":1650632123850,"input":"3\n300\n1300\n1000\n","output":"100\n130\n100\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\best_coupon.cpp","group":"local","local":true}

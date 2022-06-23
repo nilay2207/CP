@@ -1,0 +1,1 @@
+{"name":"Local: taxi","url":"d:\\Coding\\c++\\100DaysOfCode\\codeforces\\taxi.cpp","tests":[{"id":1652783185405,"input":"5\n1 2 4 3 3","output":""},{"id":1652783238438,"input":"8\n2 3 4 4 2 1 3 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codeforces\\taxi.cpp","group":"local","local":true}

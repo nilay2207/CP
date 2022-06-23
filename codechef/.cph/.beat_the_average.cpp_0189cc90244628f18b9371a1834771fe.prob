@@ -1,0 +1,1 @@
+{"name":"Local: beat_the_average","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\beat_the_average.cpp","tests":[{"id":1651683762756,"input":"4\n2 100 50\n3 100 50\n5 40 40\n10 50 49","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\beat_the_average.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: make_them_zero","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\make_them_zero.cpp","tests":[{"id":1653202261380,"input":"4\n3\n2 2 2\n4\n2 2 2 4\n2\n0 0\n3\n1 2 3","output":"1\n2\n0\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\make_them_zero.cpp","group":"local","local":true}

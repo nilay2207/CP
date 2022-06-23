@@ -1,0 +1,1 @@
+{"name":"Local: positive_products","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\positive_products.cpp","tests":[{"id":1650102320185,"input":"3\n5\n1 -3 0 2 -1\n4\n-1 -1 -1 -1\n4\n0 1 2 3","output":"2\n6\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\positive_products.cpp","group":"local","local":true}

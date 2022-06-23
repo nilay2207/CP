@@ -1,0 +1,1 @@
+{"name":"Local: minimum_cars_required","url":"d:\\Coding\\c++\\100DaysOfCode\\minimum_cars_required.cpp","tests":[{"id":1649265726413,"input":"4\n4\n2\n7\n98","output":"1\n1\n2\n25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\minimum_cars_required.cpp","group":"local","local":true}

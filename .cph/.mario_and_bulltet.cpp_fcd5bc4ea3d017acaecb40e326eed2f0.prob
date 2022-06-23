@@ -1,0 +1,1 @@
+{"name":"Local: mario_and_bulltet","url":"d:\\Coding\\c++\\100DaysOfCode\\mario_and_bulltet.cpp","tests":[{"id":1650125201506,"input":"3\n3 3 5\n2 4 1\n3 12 8\n","output":"4\n0\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\mario_and_bulltet.cpp","group":"local","local":true}

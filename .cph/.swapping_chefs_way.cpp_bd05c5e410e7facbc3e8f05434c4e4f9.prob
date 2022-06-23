@@ -1,0 +1,1 @@
+{"name":"Local: swapping_chefs_way","url":"d:\\Coding\\c++\\100DaysOfCode\\swapping_chefs_way.cpp","tests":[{"id":1647444145525,"input":"3\n4\ndbca\n3\nccc\n3\nbza","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\swapping_chefs_way.cpp","group":"local","local":true}

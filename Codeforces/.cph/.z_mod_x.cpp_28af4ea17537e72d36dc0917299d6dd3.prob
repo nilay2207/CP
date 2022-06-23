@@ -1,0 +1,1 @@
+{"name":"Local: z_mod_x","url":"d:\\Coding\\c++\\100DaysOfCode\\codeforces\\z_mod_x.cpp","tests":[{"id":1652972811650,"input":"4\n1 3 4\n127 234 421\n2 7 8\n59 94 388","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codeforces\\z_mod_x.cpp","group":"local","local":true}

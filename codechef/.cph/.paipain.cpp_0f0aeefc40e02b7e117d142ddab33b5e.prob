@@ -1,0 +1,1 @@
+{"name":"Local: paipain","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\paipain.cpp","tests":[{"id":1650125490771,"input":"2\n3\n1 3 4\n5\n2 3 4 5 6","output":"2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\paipain.cpp","group":"local","local":true}

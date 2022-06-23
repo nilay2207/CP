@@ -1,0 +1,1 @@
+{"name":"Local: dark_light","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\dark_light.cpp","tests":[{"id":1650466022284,"input":"3\n4 0\n0 1\n3 1","output":"Off\nOn\nAmbiguous"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\dark_light.cpp","group":"local","local":true}

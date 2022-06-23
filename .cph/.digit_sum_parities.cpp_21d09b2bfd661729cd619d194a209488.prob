@@ -1,0 +1,1 @@
+{"name":"Local: digit_sum_parities","url":"d:\\Coding\\c++\\100DaysOfCode\\digit_sum_parities.cpp","tests":[{"id":1648911709623,"input":"3\n123\n19\n509","output":"124\n21\n511"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\digit_sum_parities.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: sugarcane_juicr_business","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\sugarcane_juicr_business.cpp","tests":[{"id":1651835149546,"input":"4\n2\n4\n5\n10\n","output":"30\n60\n75\n150\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\sugarcane_juicr_business.cpp","group":"local","local":true}

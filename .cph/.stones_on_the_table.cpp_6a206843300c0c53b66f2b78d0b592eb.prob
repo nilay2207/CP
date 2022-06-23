@@ -1,0 +1,1 @@
+{"name":"Local: stones_on_the_table","url":"d:\\Coding\\c++\\100DaysOfCode\\stones_on_the_table.cpp","tests":[{"id":1646140261359,"input":"3\nRRG","output":"1"},{"id":1646140281235,"input":"5\nRRRRR","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\stones_on_the_table.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: even_pair_sum","url":"d:\\Coding\\c++\\100DaysOfCode\\even_pair_sum.cpp","tests":[{"id":1649315229979,"input":"4\n1 1\n2 3\n4 6\n8 9","output":"1\n3\n12\n36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\even_pair_sum.cpp","group":"local","local":true}

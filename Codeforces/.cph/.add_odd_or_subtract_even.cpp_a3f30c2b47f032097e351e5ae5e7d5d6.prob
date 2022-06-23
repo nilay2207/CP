@@ -1,0 +1,1 @@
+{"name":"Local: add_odd_or_subtract_even","url":"d:\\Coding\\c++\\100DaysOfCode\\codeforces\\add_odd_or_subtract_even.cpp","tests":[{"id":1652866772895,"input":"5\n2 3\n10 10\n2 4\n7 4\n9 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codeforces\\add_odd_or_subtract_even.cpp","group":"local","local":true}

@@ -1,0 +1,24 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+    // pair<int,int> p;
+    
+    // cin>>p.first>>p.second;
+
+    // cout<<p.first<<p.second;
+
+    int n;
+    cin>>n;
+
+    pair<int,int> p[n];
+
+    for(int i=0;i<n;i++){
+        int x,y;
+        cin>>x>>y;
+        p[i]=make_pair(x,y);
+    }   
+        for(int i=0;i<n;i++){
+        cout<<p[i].first<<p[i].second;
+        }
+}

@@ -1,0 +1,1 @@
+{"name":"Local: move_brackets","url":"d:\\Coding\\c++\\100DaysOfCode\\codeforces\\move_brackets.cpp","tests":[{"id":1653632204669,"input":"4\n2\n)(\n4\n()()\n8\n())()()(\n10\n)))((((())","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codeforces\\move_brackets.cpp","group":"local","local":true}

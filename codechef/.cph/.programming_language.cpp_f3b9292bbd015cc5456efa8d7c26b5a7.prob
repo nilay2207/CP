@@ -1,0 +1,1 @@
+{"name":"Local: programming_language","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\programming_language.cpp","tests":[{"id":1650187903963,"input":"3\n1 2 2 1 3 4\n3 4 2 1 4 3\n1 2 1 3 2 4\n","output":"1\n2\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\programming_language.cpp","group":"local","local":true}

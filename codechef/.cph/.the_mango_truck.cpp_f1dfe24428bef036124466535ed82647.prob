@@ -1,0 +1,1 @@
+{"name":"Local: the_mango_truck","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\the_mango_truck.cpp","tests":[{"id":1651674868851,"input":"4\n2 5 11\n4 10 20\n1 1 1\n6 40 90\n","output":"3\n2\n0\n8\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\the_mango_truck.cpp","group":"local","local":true}

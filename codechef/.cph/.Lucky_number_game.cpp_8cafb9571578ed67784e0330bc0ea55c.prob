@@ -1,0 +1,1 @@
+{"name":"Local: Lucky_number_game","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\Lucky_number_game.cpp","tests":[{"id":1650345790664,"input":"2\n5 3 2\n1 2 3 4 5\n5 2 4\n1 2 3 4 5\n","output":"ALICE\nBOB\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\Lucky_number_game.cpp","group":"local","local":true}

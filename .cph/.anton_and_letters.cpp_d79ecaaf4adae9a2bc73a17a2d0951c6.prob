@@ -1,0 +1,1 @@
+{"name":"Local: anton_and_letters","url":"d:\\Coding\\c++\\100DaysOfCode\\anton_and_letters.cpp","tests":[{"id":1649572389931,"input":"{a, b, c}\n","output":"3"},{"id":1649575337001,"input":"{}","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\anton_and_letters.cpp","group":"local","local":true}

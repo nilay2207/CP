@@ -1,0 +1,1 @@
+{"name":"Local: sasta_shark_tank","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\sasta_shark_tank.cpp","tests":[{"id":1650632722054,"input":"3\n100 200\n200 100\n200 500\n","output":"ANY\nFIRST\nSECOND\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\sasta_shark_tank.cpp","group":"local","local":true}

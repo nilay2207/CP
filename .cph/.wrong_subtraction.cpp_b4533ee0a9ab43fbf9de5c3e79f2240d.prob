@@ -1,0 +1,1 @@
+{"name":"Local: wrong_subtraction","url":"d:\\Coding\\c++\\100DaysOfCode\\wrong_subtraction.cpp","tests":[{"id":1649343902409,"input":"512 4","output":"50\n"},{"id":1649343965424,"input":"1000000000 9\n","output":"1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\wrong_subtraction.cpp","group":"local","local":true}

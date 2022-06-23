@@ -1,0 +1,1 @@
+{"name":"Local: chef_and_races","url":"d:\\Coding\\c++\\100DaysOfCode\\chef_and_races.cpp","tests":[{"id":1648203230565,"input":"3\n4 3 1 2\n4 2 1 2\n2 1 1 2","output":"2\n1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\chef_and_races.cpp","group":"local","local":true}

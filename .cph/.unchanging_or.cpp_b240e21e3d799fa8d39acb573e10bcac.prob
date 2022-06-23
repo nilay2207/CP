@@ -1,0 +1,1 @@
+{"name":"Local: unchanging_or","url":"d:\\Coding\\c++\\100DaysOfCode\\unchanging_or.cpp","tests":[{"id":1648052690447,"input":"3\n2\n3\n4","output":"0\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\unchanging_or.cpp","group":"local","local":true}

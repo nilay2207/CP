@@ -1,0 +1,1 @@
+{"name":"Local: circular_track","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\circular_track.cpp","tests":[{"id":1652280427952,"input":"4\n1 3 100\n1 98 100\n40 30 50\n2 1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\circular_track.cpp","group":"local","local":true}

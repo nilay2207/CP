@@ -1,0 +1,1 @@
+{"name":"Local: chef_and_chocolates","url":"d:\\Coding\\c++\\100DaysOfCode\\chef_and_chocolates.cpp","tests":[{"id":1647450513097,"input":"2\n7 5 5\n10 1 1\n","output":"10\n9\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\chef_and_chocolates.cpp","group":"local","local":true}

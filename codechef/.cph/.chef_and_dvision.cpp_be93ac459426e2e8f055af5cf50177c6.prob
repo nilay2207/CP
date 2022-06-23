@@ -1,0 +1,1 @@
+{"name":"Local: chef_and_dvision","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\chef_and_dvision.cpp","tests":[{"id":1650818311960,"input":"3\n3\n1 2 3\n4\n4 4 4 4\n5\n1 2 3 3 5\n","output":"2\n1\n5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\chef_and_dvision.cpp","group":"local","local":true}

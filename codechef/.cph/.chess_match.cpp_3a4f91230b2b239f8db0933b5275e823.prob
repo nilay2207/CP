@@ -1,0 +1,1 @@
+{"name":"Local: chess_match","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\chess_match.cpp","tests":[{"id":1650097444581,"input":"3\n10 0 2\n11 2 1\n12 192 192\n","output":"378\n379\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\chess_match.cpp","group":"local","local":true}

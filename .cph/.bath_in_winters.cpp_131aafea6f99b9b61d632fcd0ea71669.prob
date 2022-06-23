@@ -1,0 +1,1 @@
+{"name":"Local: bath_in_winters","url":"d:\\Coding\\c++\\100DaysOfCode\\bath_in_winters.cpp","tests":[{"id":1647161708579,"input":"4\n10 6\n25 1\n100 10\n30 40\n","output":"0\n12\n5\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\bath_in_winters.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: dictionary","url":"d:\\Coding\\c++\\100DaysOfCode\\codeforces\\dictionary.cpp","tests":[{"id":1653719786520,"input":"7\nab\nac\naz\nba\nbc\nzx\nzy","output":"1\n2\n25\n26\n27\n649\n650"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codeforces\\dictionary.cpp","group":"local","local":true}

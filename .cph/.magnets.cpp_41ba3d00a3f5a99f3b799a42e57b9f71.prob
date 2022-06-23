@@ -1,0 +1,1 @@
+{"name":"Local: magnets","url":"d:\\Coding\\c++\\100DaysOfCode\\magnets.cpp","tests":[{"id":1649407348659,"input":"6\n10\n10\n10\n01\n10\n10\n","output":"3\n"},{"id":1649407364586,"input":"4\n01\n01\n10\n10","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\magnets.cpp","group":"local","local":true}

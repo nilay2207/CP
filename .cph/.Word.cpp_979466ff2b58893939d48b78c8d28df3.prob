@@ -1,0 +1,1 @@
+{"name":"Local: Word","url":"d:\\Coding\\c++\\100DaysOfCode\\Word.cpp","tests":[{"id":1646126023170,"input":"HoUse","output":"house"},{"id":1646126092870,"input":"ViP","output":"VIP"},{"id":1646126110998,"input":"maTRIx","output":"matrix"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\Word.cpp","group":"local","local":true}

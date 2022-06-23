@@ -1,0 +1,1 @@
+{"name":"Local: buy2get1free","url":"d:\\Coding\\c++\\100DaysOfCode\\buy2get1free.cpp","tests":[{"id":1647703311562,"input":"1\n6 1","output":"4"},{"id":1647703426959,"input":"4\n3 4\n4 2\n5 3\n6 1\n","output":"8\n6\n12\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\buy2get1free.cpp","group":"local","local":true}

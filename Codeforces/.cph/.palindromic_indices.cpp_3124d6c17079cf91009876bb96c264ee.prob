@@ -1,0 +1,1 @@
+{"name":"Local: palindromic_indices","url":"d:\\Coding\\c++\\100DaysOfCode\\codeforces\\palindromic_indices.cpp","tests":[{"id":1653725424381,"input":"3\n3\naba\n8\nacaaaaca\n2\ndd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codeforces\\palindromic_indices.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: T_shirt","url":"d:\\Coding\\c++\\100DaysOfCode\\T_shirt.cpp","tests":[{"id":1646482748349,"input":"30 500 20 103","output":"0.042553191489"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\T_shirt.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: gcd_vs_lcm","url":"d:\\Coding\\c++\\100DaysOfCode\\gcd_vs_lcm.cpp","tests":[{"id":1649430817095,"input":"5\n4\n7\n8\n9\n10\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\gcd_vs_lcm.cpp","group":"local","local":true}

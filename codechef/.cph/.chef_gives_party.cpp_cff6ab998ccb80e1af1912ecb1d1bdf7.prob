@@ -1,0 +1,1 @@
+{"name":"Local: chef_gives_party","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\chef_gives_party.cpp","tests":[{"id":1652279629675,"input":"4\n5 10 70\n5 10 40\n10 40 400\n14 14 150\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\chef_gives_party.cpp","group":"local","local":true}

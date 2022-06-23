@@ -1,0 +1,1 @@
+{"name":"Local: optimal_path","url":"d:\\Coding\\c++\\100DaysOfCode\\Codeforces\\optimal_path.cpp","tests":[{"id":1655630017786,"input":"7\n1 1\n2 3\n3 2\n7 1\n1 10\n5 5\n10000 10000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\Codeforces\\optimal_path.cpp","group":"local","local":true}

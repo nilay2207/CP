@@ -1,0 +1,1 @@
+{"name":"Local: palindrome_pain","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\palindrome_pain.py","tests":[{"id":1650127904788,"input":"2\n2 4\n3 3","output":"abbbba\nbabbab\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\palindrome_pain.py","group":"local","local":true}

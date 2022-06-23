@@ -1,0 +1,1 @@
+{"name":"Local: group-assignment","url":"d:\\Coding\\c++\\100DaysOfCode\\group-assignment.cpp","tests":[{"id":1648047723320,"input":"3\n2 2\n3 1\n3 4\n","output":"3\n6\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\group-assignment.cpp","group":"local","local":true}

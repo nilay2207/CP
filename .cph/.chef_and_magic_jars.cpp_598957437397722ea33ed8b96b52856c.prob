@@ -1,0 +1,1 @@
+{"name":"Local: chef_and_magic_jars","url":"d:\\Coding\\c++\\100DaysOfCode\\chef_and_magic_jars.cpp","tests":[{"id":1648720176603,"input":"2   \n4   \n1 1 1 1   \n2   \n1 4","output":"1   \n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\chef_and_magic_jars.cpp","group":"local","local":true}

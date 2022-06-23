@@ -1,0 +1,1 @@
+{"name":"Local: hemose_shopping","url":"d:\\Coding\\c++\\100DaysOfCode\\Codeforces\\hemose_shopping.cpp","tests":[{"id":1655881228390,"input":"4\n3 3\n3 2 1\n4 3\n1 2 3 4\n5 2\n5 1 2 3 4\n5 4\n1 2 3 4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\Codeforces\\hemose_shopping.cpp","group":"local","local":true}

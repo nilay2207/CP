@@ -1,0 +1,1 @@
+{"name":"Local: miami_gp","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\miami_gp.cpp","tests":[{"id":1651834950686,"input":"4\n1 2\n15 16\n15 17\n100 107\n","output":"NO\nYES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\miami_gp.cpp","group":"local","local":true}

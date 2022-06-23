@@ -1,0 +1,1 @@
+{"name":"Local: maximum_length_even_subarray","url":"d:\\Coding\\c++\\100DaysOfCode\\maximum_length_even_subarray.cpp","tests":[{"id":1649319801393,"input":"3\n3\n4\n5\n","output":"3\n4\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\maximum_length_even_subarray.cpp","group":"local","local":true}

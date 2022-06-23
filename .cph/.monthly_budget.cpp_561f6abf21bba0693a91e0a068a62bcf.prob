@@ -1,0 +1,1 @@
+{"name":"Local: monthly_budget","url":"d:\\Coding\\c++\\100DaysOfCode\\monthly_budget.cpp","tests":[{"id":1649265558029,"input":"3\n1000 10\n250 50\n1500 50","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\monthly_budget.cpp","group":"local","local":true}

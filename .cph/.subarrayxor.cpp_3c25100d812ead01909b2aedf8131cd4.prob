@@ -1,0 +1,1 @@
+{"name":"Local: subarrayxor","url":"d:\\Coding\\c++\\100DaysOfCode\\subarrayxor.cpp","tests":[{"id":1647160262500,"input":"3\n2\n10\n3\n101\n4\n1111","output":"3\n6\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\subarrayxor.cpp","group":"local","local":true}
