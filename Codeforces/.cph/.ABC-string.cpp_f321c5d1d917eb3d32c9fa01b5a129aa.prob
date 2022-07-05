@@ -1,0 +1,1 @@
+{"name":"Local: ABC-string","url":"d:\\Coding\\c++\\100DaysOfCode\\Codeforces\\ABC-string.cpp","tests":[{"id":1656748204068,"input":"4\nAABBAC\nCACA\nBBBBAC\nABCA","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\Codeforces\\ABC-string.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: LEX-string","url":"d:\\Coding\\c++\\100DaysOfCode\\Codeforces\\LEX-string.cpp","tests":[{"id":1656139944026,"input":"3\n6 4 2\naaaaaa\nbbbb\n5 9 3\ncaaca\nbedededeb\n7 7 1\nnoskill\nwxhtzdy","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\Codeforces\\LEX-string.cpp","group":"local","local":true}

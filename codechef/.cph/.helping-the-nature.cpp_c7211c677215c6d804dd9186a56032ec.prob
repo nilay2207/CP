@@ -1,0 +1,1 @@
+{"name":"Local: helping-the-nature","url":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\helping-the-nature.cpp","tests":[{"id":1656573185571,"input":"4\n3\n-2 -2 -2\n3\n10 4 7\n4\n4 -4 4 -4\n5\n1 -2 3 -4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\codechef\\helping-the-nature.cpp","group":"local","local":true}

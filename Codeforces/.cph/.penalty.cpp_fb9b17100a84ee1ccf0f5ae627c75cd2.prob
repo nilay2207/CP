@@ -1,0 +1,1 @@
+{"name":"Local: penalty","url":"d:\\Coding\\c++\\100DaysOfCode\\Codeforces\\penalty.cpp","tests":[{"id":1656481940455,"input":"4\n1?0???1001\n1111111111\n??????????\n0100000000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\c++\\100DaysOfCode\\Codeforces\\penalty.cpp","group":"local","local":true}
