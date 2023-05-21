@@ -1,77 +1,37 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
+int binarySearch(int arr[], int start, int end, int target)
+{
+	if (end >= start) {
+		int mid = start + (end - start) / 2;
+		if (arr[mid] == target)
+			return mid;
 
+		else if (arr[mid] > target)
+			return binarySearch(arr, start, mid - 1, target);
 
-int BinarySearchRecursion(int n,int arr[],int start,int end,int target){
-
-        if(start>end){
-            return -1;
+		else{
+            return binarySearch(arr, mid + 1, end, target);
         }
-
-       int mid=((start+end)/2);
-
-
-        if(arr[mid]==target){
-            return mid;
-        }
-
-        if(arr[mid]>target){
-            BinarySearchRecursion(n,arr,start,mid-1,target);
-        }
-
-        if(arr[mid]<target){
-             BinarySearchRecursion(n,arr,mid+1,end,target);
-        }
-    
-
-    
-
-    
+        
+	}
+	return -1;
 }
 
-
-
-
-
-int main(){
+int main()
+{
     int n;
-    cin>>n;
-    int target;
-    cin>>target;
-    int arr[n];
-
-    for(int i=0;i<n;i++){
-        cin>>arr[i];
+    cin >> n;
+	int arr[n];
+    for (int i = 0; i < n; i++)
+    {
+        cin >> arr[i];
     }
-
-    // int start=0;
-    // int end=n;
-
-    // while(start<end){
-    //     int mid=((start+end)/2);
-
-    //     if(arr[mid]==target){
-    //         cout<<mid;
-    //         return 0;
-    //     }
-
-    //     if(arr[mid]>target){
-    //         start=mid+1;
-    //         end;
-    //     }
-
-    //     if(arr[mid]<target){
-    //         end=mid-1;
-    //         start;
-    //     }
-
-        
-    // }
-
-    // cout<<"not found";
     
-    cout<<BinarySearchRecursion(n,arr,0,n,target);
-
-
+	int target;
+    cin >> target;
+	int result = binarySearch(arr, 0, n - 1, target);
+	cout << result << endl;
+	return 0;
 }
